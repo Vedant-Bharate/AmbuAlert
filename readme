@@ -1,1 +1,50 @@
-This is a readme
+# Ambu-Alert
+
+Ambu-Alert is a safety application built on the Google Maps API, designed to enhance community safety during critical situations. It provides real-time evacuation alerts and ensures swift and safe passage for emergency vehicles, such as ambulances.
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Receive real-time evacuation alerts.
+- Ensure the safe passage of emergency vehicles to critical situations.
+- Integrated with Google Maps for route calculation and directions.
+
+## Getting Started
+
+### Prerequisites
+
+- A Google Maps API key. You can obtain one by following [Google's API documentation](https://developers.google.com/maps/gmp-get-started).
+
+### Installation
+
+- Configure the Google Maps API key in your code (wherever it's required).
+
+##Usage
+
+- Save the file to a preferred name in your system.
+- Run the file using a browser (Google Chrome, Safari, Edge, Explorer)
+
+## Configuration
+
+- You need to configure the Google Maps API key. Replace YOUR_API_KEY in the code with your actual API key.
+
+## Contribution
+
+This project is not open to external contributions at this time. It is maintained by the project authors, and we are not accepting pull requests or external contributions.
+We appreciate your interest in our project, and you are welcome to use it, report issues, and provide feedback. However, we kindly request that you do not submit contributions or pull requests.
+Thank you for your understanding.
+
+# No License / All Rights Reserved
+
+This project is not licensed and all rights are reserved. You may not use, modify, or distribute the code and associated assets without explicit written permission from the project author(s).
+Please respect the author's rights and intentions regarding the use of this project.
